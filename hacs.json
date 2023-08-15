@@ -1,0 +1,8 @@
+{
+    "name": "Australia TV Guide",
+    "filename": "aus_tv.zip",
+    "hide_default_branch": true,
+    "homeassistant": "2023.6.2",
+    "render_readme": true,
+    "zip_release": true
+}

@@ -1,0 +1,21 @@
+{
+    "title": "Aus TV",
+    "config": {
+        "step": {
+            "select_page": {
+                "title": "Pick Page",
+                "description": "Select the Facebook Page you want to connect to Home Assistant.",
+                "data": {
+                    "page_index": "Facebook Page"
+                }
+            }
+        },
+        "error": {
+            "auth": "Username/Password is wrong.",
+            "connection": "Unable to connect to the server.",
+            "unknown": "Unknown error occurred.",
+            "webhook_setup_failed": "Failed to create or update the Webhook configuration on the Facebook App.",
+            "webhook_page_setup_failed": "Failed to subscribe the Page to the Facebook App Webhook."
+        }
+    }
+}

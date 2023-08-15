@@ -1,0 +1,15 @@
+{
+  "domain": "aus_tv",
+  "name": "Australia TV Guide",
+  "codeowners": [
+    "@Megabytemb"
+  ],
+  "config_flow": true,
+  "dependencies": [
+    "application_credentials"
+  ],
+  "documentation": "https://github.com/Megabytemb/ha-aus-tv",
+  "iot_class": "cloud_push",
+  "issue_tracker": "https://github.com/Megabytemb/ha-aus-tv/issues",
+  "version": "1.0.0"
+}
